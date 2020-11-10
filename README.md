@@ -1,2 +1,2 @@
 # Pseudocode Raihan dan Imron
-tugas algoritma
+tugas algoritma 
