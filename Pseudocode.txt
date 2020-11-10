@@ -49,7 +49,7 @@
             "Masukkan bilangan kedua :8\n",
             "Hasil = 196\n"
           ],
-          "name": "stdout"
+          "name": "stdout" 
         }
       ]
     }
